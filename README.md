@@ -12,7 +12,7 @@ I am a passionate Frontend Developer dedicated in creating user-friendly and res
 
      -💬 Ask me about ... HTML, CSS, JavaScript, React, TailwindCss.
 
-     -📫 How to reach me: ...
+     -📫 How to reach me: ... https://linkedin.com/in/sarahusman
 
      -⚡ Fun fact: ... I Love Reading Novels  
 
