@@ -4,7 +4,7 @@ I am a passionate Frontend Developer dedicated in creating user-friendly and res
 
      -🔭 I’m currently working on ... Various Frontend Development Projects
 
-     -🌱 I’m currently learning ... Nextjs and TypeScript
+     -🌱 I’m currently learning ... TypeScript
 
      -👯 I’m looking to collaborate on ...Frontend Development
 
